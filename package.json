@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "xmlbuilder2": "^3.1.1"
+  }
+}
